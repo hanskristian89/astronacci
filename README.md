@@ -1,7 +1,7 @@
 # Astronacci by Yohanes Hans Kristian
 
 ## Version
-I'm using Laravel Framework 8.82.0, PHP 8.1.1, and Bootstrap 5 in this project.
+I'm using Laravel Framework 8.82.0, PHP 8.1.1, and Bootstrap 5.1.3 in this project.
 
 ## Installation
 1. Clone project using `https://github.com/hanskristian89/astronacci.git` or download zip and extract it.
