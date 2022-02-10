@@ -17,7 +17,7 @@ I'm using Laravel Framework 8.82.0, PHP 8.1.1, and Bootstrap 5.1.3 in this proje
 8. Go to 127.0.0.1:8000 and you are ready to go.
 
 ## Notes
-1. By default after run the `php artisan migrate --seed`, there are three users which can be used to log into the app. The three users are, user.a@example.com, user.b@example.com, and user.c@example.com. All passwords are `12345`.
+1. By default after run the `php artisan migrate --seed`, there are three users which can be used to log into the app. The three users are, user.a@example.com, user.b@example.com, and user.c@example.com. All passwords are `123456`.
 2. User can register to a new account by manual registration or register with Facebook or Google.
 3. If user register by manual registration, they can choose the membership level.
 4. If user register with Facebook or Google, the membership level by default is A, and they can upgrade it later.
